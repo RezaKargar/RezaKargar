@@ -1,0 +1,65 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/RezaKargar/RadioSemicolonBot/commit/aca622eda356102148a689def555f67e48938315\"><strong>a</strong>ca622eda356102148a689def555f67e48938315</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/RezaKargar/MadaniOstad/commit/ab5797e2ad6bc032d436ef30804f8b7eb2507f3f\"><strong>ab</strong>5797e2ad6bc032d436ef30804f8b7eb2507f3f</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RezaKargar/RezaKargar/commit/e68684715599bc74bb73e70cc3e11e7c9c3d1d73\">e686847</a>\n- <a href=\"https://github.com/RezaKargar/RezaKargar/commit/7a335aff33b51c344f71e389180f996e83b8da22\">7a335af</a>\n- <a href=\"https://github.com/RezaKargar/RadioSemicolonBot/commit/3213b137a0cefb091edcb72d1d819451ca35f57c\">3213b13</a>\n- <a href=\"https://github.com/RezaKargar/MadaniOstad/commit/76aa8032daf5d28b9e83dbe19960226be2b57402\">76aa803</a>\n- <a href=\"https://github.com/RezaKargar/RadioSemicolonBot/commit/31a3e30813d45c7a5ca1bad4755284d99c57cf03\">31a3e30</a>\n- <a href=\"https://github.com/RezaKargar/RadioSemicolonBot/commit/cfbdc6dde345e6f8db221a5d59b3dbf9eb39e1ac\">cfbdc6d</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RezaKargar/MadaniOstad/commit/f44954a62a43898e5520f9227813b5fee9baaa42\">f44954a</a>: Fix wrong type of Id property in FacultyOutputDto\n\nChange type of Id property to be 'int' not 'string'\n- <a href=\"https://github.com/RezaKargar/MadaniOstad/commit/15d531343e72fa23ecc03d7e49bb392412eaf2c2\">15d5313</a>: Fix misspelling in comments property of Professor",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for 1 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/MetaMask/metamask-extension/issues/13796\">#13796</a>: Farsi translation is not complete",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-1.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"to\".",
+    "body": "My favorite commit message words are:\n\n1. to (used 217 times)\n2. - (used 172 times)\n3. and (used 168 times)\n4. in (used 123 times)\n5. of (used 105 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/RezaKargar/RadioSemicolonBot/issues/2\">#2</a>: Add README.md",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
+  }
+]
